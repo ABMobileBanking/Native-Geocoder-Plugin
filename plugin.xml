@@ -43,6 +43,8 @@
         <config-file target="*-Info.plist" parent="NSLocationWhenInUseUsageDescription">
             <string>$LOCATION_WHEN_IN_USE_DESCRIPTION</string>
         </config-file>
-        <dependency id="cordova-plugin-add-swift-support" url="https://github.com/os-adv-dev/cordova-plugin-add-swift-support#2.0.3-OS2"/>
+
+        <dependency id="cordova-plugin-add-swift-support" url="https://github.com/OutSystems/cordova-plugin-add-swift-support#2.0.3-OS2"/>
+    
     </platform>
 </plugin>
